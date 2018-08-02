@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="libphonenumber-csharp" Version="8.9.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\DataValidations.PhoneNumber.Contracts.csproj" />
+    <ProjectReference Include="..\Models\DataValidations.PhoneNumber.Models.csproj" />
+  </ItemGroup>
+
+</Project>

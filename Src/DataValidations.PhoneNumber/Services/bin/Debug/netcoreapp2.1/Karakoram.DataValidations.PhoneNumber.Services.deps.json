@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "633b09347558ed8656ccda1926c3637b61a4a3ba"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Karakoram.DataValidations.PhoneNumber.Services/1.0.0": {
+        "dependencies": {
+          "Karakoram.DataValidations.PhoneNumber.Contracts": "1.0.0",
+          "Karakoram.DataValidations.PhoneNumber.Models": "1.0.0",
+          "libphonenumber-csharp": "8.9.10"
+        },
+        "runtime": {
+          "Karakoram.DataValidations.PhoneNumber.Services.dll": {}
+        }
+      },
+      "libphonenumber-csharp/8.9.10": {
+        "runtime": {
+          "lib/netstandard2.0/PhoneNumbers.dll": {
+            "assemblyVersion": "8.9.10.0",
+            "fileVersion": "8.9.10.0"
+          }
+        }
+      },
+      "Karakoram.DataValidations.PhoneNumber.Contracts/1.0.0": {
+        "dependencies": {
+          "Karakoram.DataValidations.PhoneNumber.Models": "1.0.0"
+        },
+        "runtime": {
+          "Karakoram.DataValidations.PhoneNumber.Contracts.dll": {}
+        }
+      },
+      "Karakoram.DataValidations.PhoneNumber.Models/1.0.0": {
+        "runtime": {
+          "Karakoram.DataValidations.PhoneNumber.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Karakoram.DataValidations.PhoneNumber.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libphonenumber-csharp/8.9.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RZrOOKWJuCDXApa98TNw2KV/Ow4BEX5b0Oq3QO3iLwwGUo8DUS9OC8EB2+FFteYJ6raABSt54ldSA9re5vWKcA==",
+      "path": "libphonenumber-csharp/8.9.10",
+      "hashPath": "libphonenumber-csharp.8.9.10.nupkg.sha512"
+    },
+    "Karakoram.DataValidations.PhoneNumber.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Karakoram.DataValidations.PhoneNumber.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

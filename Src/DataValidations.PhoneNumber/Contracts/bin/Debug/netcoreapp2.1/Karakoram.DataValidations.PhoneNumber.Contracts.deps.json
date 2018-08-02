@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Karakoram.DataValidations.PhoneNumber.Contracts/1.0.0": {
+        "dependencies": {
+          "Karakoram.DataValidations.PhoneNumber.Models": "1.0.0"
+        },
+        "runtime": {
+          "Karakoram.DataValidations.PhoneNumber.Contracts.dll": {}
+        }
+      },
+      "Karakoram.DataValidations.PhoneNumber.Models/1.0.0": {
+        "runtime": {
+          "Karakoram.DataValidations.PhoneNumber.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Karakoram.DataValidations.PhoneNumber.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Karakoram.DataValidations.PhoneNumber.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

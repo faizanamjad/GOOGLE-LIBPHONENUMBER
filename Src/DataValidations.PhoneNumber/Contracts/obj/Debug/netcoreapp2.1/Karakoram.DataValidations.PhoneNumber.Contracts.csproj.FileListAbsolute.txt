@@ -1,0 +1,12 @@
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.deps.json
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.dll
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.pdb
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.csprojAssemblyReference.cache
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.csproj.CoreCompileInputs.cache
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.AssemblyInfoInputs.cache
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.AssemblyInfo.cs
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.dll
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.pdb
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.dll
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.pdb
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Contracts\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Contracts.csproj.CopyComplete

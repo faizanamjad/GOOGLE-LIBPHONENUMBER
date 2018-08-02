@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataValidations.PhoneNumber.API</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:DataValidations.PhoneNumber.API.Controllers.PhoneController.ValidatePhoneNumber(System.String,System.String)" -->
+        <member name="M:DataValidations.PhoneNumber.API.Controllers.PhoneController.FormatePhoneNumber(System.String,System.String)">
+            <summary>
+            Formate Phone Number according to calling country 
+            </summary>
+            <param name="telephoneNumber"> any formate</param>
+            <param name="dialFrom ISO2ISO2">  </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

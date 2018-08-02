@@ -1,0 +1,14 @@
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.deps.json
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.dll
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.pdb
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Contracts.dll
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.dll
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Contracts.pdb
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.pdb
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.csprojAssemblyReference.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.csproj.CoreCompileInputs.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.AssemblyInfoInputs.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.AssemblyInfo.cs
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.csproj.CopyComplete
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.dll
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Services\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Services.pdb

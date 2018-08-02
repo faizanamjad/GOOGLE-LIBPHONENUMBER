@@ -1,0 +1,9 @@
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.deps.json
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.dll
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\bin\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.pdb
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.csprojAssemblyReference.cache
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.csproj.CoreCompileInputs.cache
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.AssemblyInfoInputs.cache
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.AssemblyInfo.cs
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.dll
+C:\Madyan\Karakoram\Karakoram.DataValidations\Src\Karakoram.DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\Karakoram.DataValidations.PhoneNumber.Models.pdb
