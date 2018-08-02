@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj",
       "projectName": "DataValidations.PhoneNumber.Contracts",
-      "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj",
+      "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj",
       "packagesPath": "C:\\Users\\faizan.amjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Contracts\\obj\\",
+      "outputPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -727,8 +727,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj": {
-              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj"
+            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj": {
+              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj"
             }
           }
         }

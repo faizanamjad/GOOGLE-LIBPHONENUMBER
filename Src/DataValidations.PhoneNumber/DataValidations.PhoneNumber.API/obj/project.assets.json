@@ -14833,11 +14833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\DataValidations.PhoneNumber.API\\DataValidations.PhoneNumber.API.csproj",
+      "projectUniqueName": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\DataValidations.PhoneNumber.API\\DataValidations.PhoneNumber.API.csproj",
       "projectName": "DataValidations.PhoneNumber.API",
-      "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\DataValidations.PhoneNumber.API\\DataValidations.PhoneNumber.API.csproj",
+      "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\DataValidations.PhoneNumber.API\\DataValidations.PhoneNumber.API.csproj",
       "packagesPath": "C:\\Users\\faizan.amjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\DataValidations.PhoneNumber.API\\obj\\",
+      "outputPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\DataValidations.PhoneNumber.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14857,14 +14857,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj": {
-              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj"
+            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj": {
+              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Contracts\\DataValidations.PhoneNumber.Contracts.csproj"
             },
-            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj": {
-              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj"
+            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj": {
+              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj"
             },
-            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Services\\DataValidations.PhoneNumber.Services.csproj": {
-              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Services\\DataValidations.PhoneNumber.Services.csproj"
+            "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Services\\DataValidations.PhoneNumber.Services.csproj": {
+              "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Services\\DataValidations.PhoneNumber.Services.csproj"
             }
           }
         }

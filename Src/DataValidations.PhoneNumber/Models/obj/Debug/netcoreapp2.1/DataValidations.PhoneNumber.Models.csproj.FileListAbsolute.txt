@@ -7,3 +7,12 @@ C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\
 C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.dll
 C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.pdb
 C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.csprojAssemblyReference.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.deps.json
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.dll
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\bin\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.pdb
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.csprojAssemblyReference.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.csproj.CoreCompileInputs.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.AssemblyInfoInputs.cache
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.AssemblyInfo.cs
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.dll
+C:\Users\faizan.amjad\Desktop\GooglePhoneLibray\GOOGLE-LIBPHONENUMBER\Src\DataValidations.PhoneNumber\Models\obj\Debug\netcoreapp2.1\DataValidations.PhoneNumber.Models.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj",
+      "projectUniqueName": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj",
       "projectName": "DataValidations.PhoneNumber.Models",
-      "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj",
+      "projectPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\DataValidations.PhoneNumber.Models.csproj",
       "packagesPath": "C:\\Users\\faizan.amjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\Src\\DataValidations.PhoneNumber\\Models\\obj\\",
+      "outputPath": "C:\\Users\\faizan.amjad\\Desktop\\GooglePhoneLibray\\GOOGLE-LIBPHONENUMBER\\Src\\DataValidations.PhoneNumber\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
